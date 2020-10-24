@@ -1,0 +1,9 @@
+EN PS :  re not used 
+boost convexplain :https://www.youtube.com/watch?v=AMESgY_pdMw
+using datashet the bost (uvlo) will turn off at 3.02V
+always use decpling cap value in datashet
+d+ d-: determin for charging curcuit how much volt is allowed /current
+--------------------------------------From the wall------
+for the 10K R we limit 0.1A good fro 100 ma power battery nothing smaller
+
+PMOS ON for 0v 
